@@ -2,7 +2,7 @@ plugins {
     id 'java'
     id 'application'
 }
-mainClassName = 'com.cherrybox.codeMetric'
+mainClassName = 'com.cherrybox.Cherrybox'
 
 group 'com.cherrybox'
 version '1.0-SNAPSHOT'
